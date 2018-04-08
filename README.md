@@ -1,6 +1,8 @@
 Machine Learning Notebooks
 ==========================
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pleabargain/handson-ml/master)
+
 This project aims at teaching you the fundamentals of Machine Learning in
 python. It contains the example code and solutions to the exercises in my O'Reilly book [Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do):
 
